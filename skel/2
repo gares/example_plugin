@@ -1,0 +1,11 @@
+open Glob_term
+open Globnames
+open Misctypes
+open Evar_kinds
+open Decl_kinds
+open Names
+open Proofview
+open Pretyping
+open Genarg
+open Tacticals.New
+

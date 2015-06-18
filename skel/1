@@ -1,0 +1,12 @@
+
+DECLARE PLUGIN "myplug"
+
+let () = Mltop.add_known_plugin (fun () ->
+  Flags.if_verbose Pp.msg_info Pp.(str"myplug 1.0 at your service"))
+  "myplug"
+;;
+
+
+
+(* vim: set filetype=ocaml foldmethod=marker: *)
+  

@@ -1,0 +1,12 @@
+*~
+.*.swp
+*.aux
+*.d
+*.vo
+*.glob
+*.cm[iox]
+*.cma
+*.cmx[as]
+*.[oa]
+Makefile
+Makefile.bak

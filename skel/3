@@ -1,0 +1,5 @@
+
+let underscore = GHole(Loc.ghost, GoalEvar, IntroAnonymous, None)
+
+let lambda id = GLambda(Loc.ghost, Name id, Explicit, underscore, underscore)
+

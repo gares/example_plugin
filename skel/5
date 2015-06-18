@@ -1,0 +1,2 @@
+  let reference = Smartlocate.global_with_alias name in
+
